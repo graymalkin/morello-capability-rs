@@ -1,0 +1,2 @@
+[target.aarch64-unknown-freebsd-purecap]
+linker = "/Users/simon/github/rust/clang-morello.sh"
