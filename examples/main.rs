@@ -1,6 +1,6 @@
 use std::mem::size_of;
 
-use morello_capability_rs::*;
+use morello::capability::*;
 
 fn main() {
     let arr : [i64; 4] = [ 0, 42, 0, 0 ];

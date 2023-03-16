@@ -1,10 +1,8 @@
 [package]
-name = "morello-capability-rs"
+name = "morello"
 version = "0.1.0"
 edition = "2018"
 
 [lib]
 
 [dependencies]
-libc = { path = "/Users/simon/github/rust/library/libc-0.2.99" }
-
